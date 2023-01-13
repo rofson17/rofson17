@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **DSA, MERN Stack, Next JS, Tailwind CSS, Material UI, Bootstrap, React Native, Flask etc**
 
-- ⚡ Fun fact **Error fix**
+- ⚡ Fun fact **Competitive Programming is My Favourite Sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
