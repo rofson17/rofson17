@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [http://github.com/rofson17](http://github.com/rofson17)
 
-- 💬 Ask me about **MERN Stack, Next JS, Tailwind CSS, Material UI, Bootstrap, React Native, Flask**
+- 💬 Ask me about **DSA, MERN Stack, Next JS, Tailwind CSS, Material UI, Bootstrap, React Native, Flask etc**
 
 - ⚡ Fun fact **Error fix**
 
